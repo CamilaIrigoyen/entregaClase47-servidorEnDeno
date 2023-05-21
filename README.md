@@ -1,1 +1,1 @@
-# entregaClase47-servidorEnDeno
+# entrega-clase-47
